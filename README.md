@@ -1,3 +1,10 @@
+
+– Developed a front-end budget planner using Angular, allowing users to manage expenses, record income, and track to-do
+transactions.
+– Implemented intuitive interfaces for efficient expense tracking and financial planning.
+
+
+
 # BudgetPlanner1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
